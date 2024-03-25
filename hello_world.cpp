@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>//libraries
 int main() {
-//enter name
+//введите имя
     std::string name;
     std::cout << "Enter your name: ";
     std::cin >> name;
